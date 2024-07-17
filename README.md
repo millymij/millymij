@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**millymij/millymij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Camilla**, a recent Computer Science graduate with a solid foundation in Python and Java, and I am constantly expanding my skill set and looking for opportunities to apply my knowledge in real-world projects.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills:**
+* Programming Languages: Python, Java, C#
+* Web Development: HTML, CSS, JavaScript
+* Frameworks and Libraries: Flask, Vue.js, Razor, .NET, NumPy, AlgoSDK
+* Databases: MySQL, MongoDB
+* Big Data: Hadoop, HDFS
+* Tools and Platforms: Git, Docker
+* Others: Data Structures, Algorithms, Object-Oriented Programming, Software Development Methodologies
+
+
+**I'm interested in:**
+* Artificial Intelligence
+* Data Science
+* Web Development
+
+
+**Education:**
+* Degree: Bachelor of Science with Honorus in Computer Science
+* University: University of Stirling
+* Year of Graduation: 2024
+
+
+**Let's connect!**
+* LinkedIn: (https://www.linkedin.com/in/camilla-anoè-654792194/)
+* Email: camilla.anoe00@gmail.com
+
+Feel free to reach out if you'd like to collaborate on a project or just want to connect!
+
