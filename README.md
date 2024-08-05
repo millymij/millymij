@@ -5,6 +5,7 @@
 
 **Skills:**
 * Programming Languages: Python, Java, C#
+* App Developmente: Kotlin
 * Web Development: HTML, CSS, JavaScript
 * Frameworks and Libraries: Flask, Vue.js, Razor, .NET, NumPy, AlgoSDK
 * Databases: MySQL, MongoDB
