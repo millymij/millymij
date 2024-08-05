@@ -13,12 +13,6 @@
 * Others: Data Structures, Algorithms, Object-Oriented Programming, Software Development Methodologies
 
 
-**I'm interested in:**
-* Artificial Intelligence
-* Data Science
-* Web Development
-
-
 **Education:**
 * Degree: Bachelor of Science with Honorus in Computer Science
 * University: University of Stirling
