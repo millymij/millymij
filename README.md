@@ -21,7 +21,7 @@
 
 
 **Let's connect!**
-* LinkedIn: (https://www.linkedin.com/in/camilla-anoè-654792194/)
+* LinkedIn: (https://www.linkedin.com/in/camilla-anoè)
 * Email: camilla.anoe00@gmail.com
 
 Feel free to reach out if you'd like to collaborate on a project or just want to connect!
